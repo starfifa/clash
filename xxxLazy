@@ -14,23 +14,23 @@ o2: &o2 {type: select, proxies: [DIRECT, 🚀 节点选择, ♻️ 自动选择,
 proxy-providers:
   sub1:    ###westdata###
     <<: *pp
-    url: "https://api.fuqing.ch/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Ffuqing.ch%2Fsubscribe%2Fnrmjbm-v-ktqjix"
+    url: ""
 
   sub2:    ###EFcloud###
     <<: *pp
-    url: "https://sub.efshop.cc/api/v1/client/subscribe?token=8d73fb1608428d3fa11c596a9dbcea93"
+    url: ""
 
   sub3:    ###sttlink###
     <<: *pp
-    url: "https://sttsub.top/link/8Nomv37pDIilPJAC?clash=1"
+    url: ""
     
   sub4:    ###cyanmori###
     <<: *pp
-    url: "https://api.fanss.vip/link/NaOGimEJtmQz4Rdm?clash=1"
+    url: ""
     
   sub5:    ###Mojie###
     <<: *pp
-    url: "https://mojie.link/api/v1/client/subscribe?token=8854d7525f07b89e5b2024656f1bffe6"
+    url: ""
     
 ########################################################################分隔符
 
